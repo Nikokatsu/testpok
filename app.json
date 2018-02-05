@@ -1,0 +1,11 @@
+{
+  "name": "Pokemon",
+  "description": "A simple Battle simulator",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/Nikokatsu/testpok"
+}
